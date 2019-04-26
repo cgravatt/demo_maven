@@ -1,4 +1,4 @@
-package com.christiangravatt.demo;
+package com.christiangravatt.demo_maven;
 
 import org.apache.catalina.connector.Connector;
 import org.springframework.beans.factory.annotation.Value;

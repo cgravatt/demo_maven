@@ -1,4 +1,4 @@
-package com.christiangravatt.demo;
+package com.christiangravatt.demo_maven;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

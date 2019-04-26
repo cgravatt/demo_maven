@@ -1,4 +1,4 @@
-package com.christiangravatt.demo_maven.demo;
+package com.christiangravatt.demo_maven;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

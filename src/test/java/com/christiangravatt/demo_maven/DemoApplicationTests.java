@@ -1,4 +1,4 @@
-package com.christiangravatt.demo_maven.demo;
+package com.christiangravatt.demo_maven;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
